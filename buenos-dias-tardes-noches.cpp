@@ -14,7 +14,7 @@ int main()
     {
         cout << "Buenas tardes" << endl;
     }
-    else
+    else if (hrs >= 19 && hrs < 24)
     {
         cout << "Buenas noches" << endl;
     }
